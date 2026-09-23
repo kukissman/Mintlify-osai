@@ -1,6 +1,15 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "name": "OSAI",
   "theme": "mint",
-  "navigation": { "pages": ["index"] }
+  "name": "OSAI",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373"
+  },
+  "navigation": {
+    "pages": [
+      "index"
+    ]
+  }
 }
