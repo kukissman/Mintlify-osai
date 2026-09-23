@@ -1,0 +1,6 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "OSAI",
+  "theme": "mint",
+  "navigation": { "pages": ["index"] }
+}
